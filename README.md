@@ -1,3 +1,3 @@
-# Ising-model-with-Random-External-Field
+# IsingmodelwithRandomExternalField
 
 This is Dean's Undergraduate Research Project in Summer 2024. 
